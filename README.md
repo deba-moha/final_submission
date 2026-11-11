@@ -1,7 +1,7 @@
 # Model Mayhem - PCB Defect Detection
 
-TEAM _ BANAna
-Menbers _ Debasis Mohapatra
+TEAM _ BANANA
+Members _ Debasis Mohapatra
 
 ## Setup
 Run: pip install -r requirements.txt
